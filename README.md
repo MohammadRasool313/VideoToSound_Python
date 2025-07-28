@@ -32,3 +32,15 @@ pip install moviepy.editor
 2. Open cmd and write VideoToSound.py -i path/to/video -o path/to/save
 
 ---
+
+## 🧪 Example
+
+```
+VideoToSound.py -i test.mp4 -o test.wav
+```
+
+---
+
+## 📄 License
+
+MIT © [MR313](https://github.com/MohammadRasool313)
